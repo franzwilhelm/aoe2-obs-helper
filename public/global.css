@@ -1,0 +1,15 @@
+body {
+	background: url("../src/static/aoe2_background.jpg");
+	height: 100%;
+	color: #e8bc54;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	font-family: trajan-pro-3, serif;
+
+	font-weight: 400;
+	
+	font-style: normal;
+}
